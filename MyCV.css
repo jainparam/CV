@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(216, 250, 252);
+    
+}
+
+a {color: rgb(202, 28, 179);}
+
+h1, h2, h3{ color:rgb(8, 202, 250);}
+
+hr{border-style: none;
+    border-top: dotted;
+    border-color: rgb(27, 160, 194);
+    border-width: 5px;
+    width: 10%;
+}
